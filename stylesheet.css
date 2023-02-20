@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+  }
+  h2 {
+    text-align: center;
+  }
+  h3 {
+    text-align: center;
+  }
+  
+  body {
+    background-color: white;
+  }
+  .peach {
+    background-color: peachpuff;
+  }
+  a:link {
+    color: orangered;
+  }
+  a:visited {
+    color: orange;
+  }
+  a:hover {
+    color: red;
+  }
+  a:active {
+    color: goldenrod;
+  }
