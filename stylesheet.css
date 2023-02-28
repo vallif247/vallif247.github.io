@@ -15,10 +15,10 @@ h1 {
     background-color: peachpuff;
   }
   a:link {
-    color: orangered;
+    color: green;
   }
   a:visited {
-    color: orange;
+    color: yellowgreen;
   }
   a:hover {
     color: red;
