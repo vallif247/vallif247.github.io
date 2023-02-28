@@ -7,11 +7,11 @@ h1 {
   h3 {
     text-align: center;
   }
-  
   body {
     background-color: white;
   }
   .peach {
+    background-size: 50%;
     background-color: peachpuff;
   }
   a:link {
@@ -26,3 +26,8 @@ h1 {
   a:active {
     color: goldenrod;
   }
+  .image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
