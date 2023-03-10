@@ -1,3 +1,5 @@
+/*Center all headings*/
+
 h1 {
     text-align: center;
     padding-top: 40px;
@@ -16,10 +18,16 @@ h1 {
   body {
     background-color: white;
   }
+
+/*Add color to background of all headings, class "peach"*/
+
   .peach {
     background-size: 50%;
     background-color: peachpuff;
   }
+
+/*Format link colors*/
+
   a:link {
     color: green;
   }
@@ -37,4 +45,3 @@ h1 {
     margin-left: auto;
     margin-right: auto;
 }
-font-family, font-size, padding properties 
